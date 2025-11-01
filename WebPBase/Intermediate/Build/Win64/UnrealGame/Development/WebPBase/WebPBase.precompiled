@@ -1,0 +1,14 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\WebPBase\\Module.WebPBase.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\WebPBase\\WebPBase.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\WebPBase\\WebPBaseBPLibrary.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\WebPBase\\WebPBaseCore.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\WebPBase\\WebPBaseLib.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\WebPBase\\LogWebPBase.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\WebPBase\\WebPBaseMultiShotSubsystem.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\WebPBase\\WebPBaseOneShotSubsystem.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\WebPBase\\WebPBaseShowMultiSubsystem.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\WebPBase\\WebPBaseType.cpp.obj"
+	]
+}
