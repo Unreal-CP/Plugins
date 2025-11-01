@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\ue5\\x\\plugins\\editorwebbrowser_plus\\source\\editorwebbrowser_plus\\private\\editorbrowsertool.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\ue5\\x\\intermediate\\build\\win64\\x64\\xeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\ue5\\x\\plugins\\editorwebbrowser_plus\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\editorbrowsertool\\definitions.editorbrowsertool.h",
+            "f:\\ue5\\x\\plugins\\editorwebbrowser_plus\\source\\editorwebbrowser_plus\\public\\editorbrowsertool.h",
+            "f:\\ue5\\x\\plugins\\editorwebbrowser_plus\\source\\editorwebbrowser_plus\\private\\editorbrowsertoolstyle.h",
+            "f:\\ue5\\x\\plugins\\editorwebbrowser_plus\\source\\editorwebbrowser_plus\\private\\editorbrowsertoolcommands.h",
+            "f:\\ue5\\x\\plugins\\editorwebbrowser_plus\\source\\editorwebbrowser_plus\\private\\seditorbrowsertool.h",
+            "e:\\ue_5.6\\engine\\source\\editor\\leveleditor\\public\\leveleditor.h",
+            "e:\\ue_5.6\\engine\\source\\editor\\leveleditor\\public\\ileveleditor.h",
+            "e:\\ue_5.6\\engine\\source\\runtime\\engine\\public\\elements\\framework\\engineelementslibrary.h",
+            "e:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\engineelementslibrary.generated.h",
+            "e:\\ue_5.6\\engine\\source\\editor\\leveleditor\\public\\viewporttypedefinition.h",
+            "e:\\ue_5.6\\engine\\source\\editor\\leveleditor\\public\\leveleditoroutlinersettings.h",
+            "e:\\ue_5.6\\engine\\source\\developer\\toolwidgets\\public\\filters\\genericfilter.h",
+            "e:\\ue_5.6\\engine\\source\\developer\\toolwidgets\\public\\filters\\filterbase.h",
+            "e:\\ue_5.6\\engine\\source\\runtime\\webbrowser\\public\\iwebbrowsersingleton.h",
+            "e:\\ue_5.6\\engine\\source\\runtime\\webbrowser\\public\\iwebbrowserresourceloader.h",
+            "e:\\ue_5.6\\engine\\source\\runtime\\webbrowser\\public\\webbrowsermodule.h",
+            "e:\\ue_5.6\\engine\\source\\editor\\workspacemenustructure\\public\\workspacemenustructuremodule.h",
+            "e:\\ue_5.6\\engine\\source\\editor\\workspacemenustructure\\public\\workspacemenustructure.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

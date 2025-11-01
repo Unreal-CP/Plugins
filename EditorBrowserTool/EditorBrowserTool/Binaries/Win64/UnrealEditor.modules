@@ -1,0 +1,8 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"EditorBrowserTool": "UnrealEditor-EditorBrowserTool.dll",
+		"EditorWebBrowser_Plus": "UnrealEditor-EditorWebBrowser_Plus.dll"
+	}
+}

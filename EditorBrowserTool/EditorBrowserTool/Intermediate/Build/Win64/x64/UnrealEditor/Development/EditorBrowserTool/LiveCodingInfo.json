@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EditorBrowserTool.cpp.obj": [
+			"EditorBrowserTool.init.gen.cpp.obj",
+			"EditorBrowserToolSettings.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"EditorBrowserTool.cpp.obj",
+			"EditorBrowserToolCommands.cpp.obj",
+			"EditorBrowserToolSettings.cpp.obj",
+			"EditorBrowserToolStyle.cpp.obj",
+			"SEditorBrowserTool.cpp.obj",
+			"SWebBrowserTab.cpp.obj"
+		]
+	}
+}

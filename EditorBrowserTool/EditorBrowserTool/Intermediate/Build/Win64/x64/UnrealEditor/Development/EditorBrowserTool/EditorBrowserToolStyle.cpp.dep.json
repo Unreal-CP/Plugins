@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\ue5\\x\\plugins\\editorwebbrowser_plus\\source\\editorwebbrowser_plus\\private\\editorbrowsertoolstyle.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\ue5\\x\\intermediate\\build\\win64\\x64\\xeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\ue5\\x\\plugins\\editorwebbrowser_plus\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\editorbrowsertool\\definitions.editorbrowsertool.h",
+            "f:\\ue5\\x\\plugins\\editorwebbrowser_plus\\source\\editorwebbrowser_plus\\private\\editorbrowsertoolstyle.h",
+            "e:\\ue_5.6\\engine\\source\\runtime\\slatecore\\public\\styling\\slatestyleregistry.h",
+            "e:\\ue_5.6\\engine\\source\\runtime\\engine\\public\\slate\\slategameresources.h",
+            "e:\\ue_5.6\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "e:\\ue_5.6\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "e:\\ue_5.6\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "e:\\ue_5.6\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "e:\\ue_5.6\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "e:\\ue_5.6\\engine\\source\\runtime\\projects\\public\\plugindisalloweddescriptor.h",
+            "e:\\ue_5.6\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "e:\\ue_5.6\\engine\\source\\runtime\\projects\\public\\versescope.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

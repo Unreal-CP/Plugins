@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\ue5\\x\\plugins\\editorwebbrowser_plus\\source\\editorwebbrowser_plus\\private\\seditorwebbrowser.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\ue5\\x\\intermediate\\build\\win64\\x64\\xeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\ue5\\x\\plugins\\editorwebbrowser_plus\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\editorwebbrowser_plus\\definitions.editorwebbrowser_plus.h",
+            "f:\\ue5\\x\\plugins\\editorwebbrowser_plus\\source\\editorwebbrowser_plus\\private\\seditorwebbrowser.h",
+            "f:\\ue5\\x\\plugins\\editorwebbrowser_plus\\source\\editorwebbrowser_plus\\private\\editorwebbrowsersettings.h",
+            "f:\\ue5\\x\\plugins\\editorwebbrowser_plus\\intermediate\\build\\win64\\unrealeditor\\inc\\editorwebbrowser_plus\\uht\\editorwebbrowsersettings.generated.h",
+            "f:\\ue5\\x\\plugins\\editorwebbrowser_plus\\source\\editorwebbrowser_plus\\private\\swebbrowsertab.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
