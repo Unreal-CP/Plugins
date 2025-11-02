@@ -1,0 +1,11 @@
+这个插件是用于5.6，低版本引擎如需使用则修改.uproject内引擎版本
+需要将补丁包解压然后复制到引擎处，将原有引擎代码替换，以实现虚幻引擎对H.256流视频的支持
+使用方法：
+（1）在开始游戏按钮所处栏目处
+（2）在最顶部工具栏Tool处打开
+
+This plugin is designed for version 5.6. If you need to use a lower version engine, please modify the engine version in. uProject
+It is necessary to decompress the patch package and copy it to the engine, replacing the original engine code to achieve Unreal Engine's support for H.256 streaming videos
+Usage:
+(1) At the column where the start game button is located
+(2) Open at the top toolbar Tool
