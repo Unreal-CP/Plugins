@@ -1,12 +1,12 @@
-"F:/UE5/X/Plugins/EditorWebBrowser_Plus/Source/EditorWebBrowser_Plus/Private/EditorBrowserToolCommands.cpp"
-@"F:/UE5/X/Plugins/EditorWebBrowser_Plus/Intermediate/Build/Win64/x64/UnrealEditor/Development/EditorBrowserTool/EditorBrowserTool.Shared.rsp"
+"F:/UE5/X/Plugins/EditorBrowserTool/Source/EditorWebBrowser_Plus/Private/EditorBrowserToolCommands.cpp"
+@"F:/UE5/X/Plugins/EditorBrowserTool/Intermediate/Build/Win64/x64/UnrealEditor/Development/EditorBrowserTool/EditorBrowserTool.Shared.rsp"
 /FI"F:/UE5/X/Intermediate/Build/Win64/x64/XEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
-/FI"F:/UE5/X/Plugins/EditorWebBrowser_Plus/Intermediate/Build/Win64/x64/UnrealEditor/Development/EditorBrowserTool/Definitions.EditorBrowserTool.h"
+/FI"F:/UE5/X/Plugins/EditorBrowserTool/Intermediate/Build/Win64/x64/UnrealEditor/Development/EditorBrowserTool/Definitions.EditorBrowserTool.h"
 /Yu"F:/UE5/X/Intermediate/Build/Win64/x64/XEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
 /Fp"F:/UE5/X/Intermediate/Build/Win64/x64/XEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
-/Fo"F:/UE5/X/Plugins/EditorWebBrowser_Plus/Intermediate/Build/Win64/x64/UnrealEditor/Development/EditorBrowserTool/EditorBrowserToolCommands.cpp.obj"
-/experimental:log "F:/UE5/X/Plugins/EditorWebBrowser_Plus/Intermediate/Build/Win64/x64/UnrealEditor/Development/EditorBrowserTool/EditorBrowserToolCommands.cpp.sarif"
-/sourceDependencies "F:/UE5/X/Plugins/EditorWebBrowser_Plus/Intermediate/Build/Win64/x64/UnrealEditor/Development/EditorBrowserTool/EditorBrowserToolCommands.cpp.dep.json"
+/Fo"F:/UE5/X/Plugins/EditorBrowserTool/Intermediate/Build/Win64/x64/UnrealEditor/Development/EditorBrowserTool/EditorBrowserToolCommands.cpp.obj"
+/experimental:log "F:/UE5/X/Plugins/EditorBrowserTool/Intermediate/Build/Win64/x64/UnrealEditor/Development/EditorBrowserTool/EditorBrowserToolCommands.cpp.sarif"
+/sourceDependencies "F:/UE5/X/Plugins/EditorBrowserTool/Intermediate/Build/Win64/x64/UnrealEditor/Development/EditorBrowserTool/EditorBrowserToolCommands.cpp.dep.json"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

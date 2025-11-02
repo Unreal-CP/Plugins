@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class UEditorBrowserToolSettings ***********************************************
 EDITORBROWSERTOOL_API UClass* Z_Construct_UClass_UEditorBrowserToolSettings_NoRegister();
 
-#define FID_X_Plugins_EditorWebBrowser_Plus_Source_EditorWebBrowser_Plus_Private_EditorBrowserToolSettings_h_10_INCLASS_NO_PURE_DECLS \
+#define FID_X_Plugins_EditorBrowserTool_Source_EditorWebBrowser_Plus_Private_EditorBrowserToolSettings_h_10_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUEditorBrowserToolSettings(); \
 	friend struct Z_Construct_UClass_UEditorBrowserToolSettings_Statics; \
@@ -32,7 +32,7 @@ public: \
 
 
 
-#define FID_X_Plugins_EditorWebBrowser_Plus_Source_EditorWebBrowser_Plus_Private_EditorBrowserToolSettings_h_10_ENHANCED_CONSTRUCTORS \
+#define FID_X_Plugins_EditorBrowserTool_Source_EditorWebBrowser_Plus_Private_EditorBrowserToolSettings_h_10_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UEditorBrowserToolSettings(UEditorBrowserToolSettings&&) = delete; \
 	UEditorBrowserToolSettings(const UEditorBrowserToolSettings&) = delete; \
@@ -42,12 +42,12 @@ public: \
 	NO_API virtual ~UEditorBrowserToolSettings();
 
 
-#define FID_X_Plugins_EditorWebBrowser_Plus_Source_EditorWebBrowser_Plus_Private_EditorBrowserToolSettings_h_7_PROLOG
-#define FID_X_Plugins_EditorWebBrowser_Plus_Source_EditorWebBrowser_Plus_Private_EditorBrowserToolSettings_h_10_GENERATED_BODY \
+#define FID_X_Plugins_EditorBrowserTool_Source_EditorWebBrowser_Plus_Private_EditorBrowserToolSettings_h_7_PROLOG
+#define FID_X_Plugins_EditorBrowserTool_Source_EditorWebBrowser_Plus_Private_EditorBrowserToolSettings_h_10_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_X_Plugins_EditorWebBrowser_Plus_Source_EditorWebBrowser_Plus_Private_EditorBrowserToolSettings_h_10_INCLASS_NO_PURE_DECLS \
-	FID_X_Plugins_EditorWebBrowser_Plus_Source_EditorWebBrowser_Plus_Private_EditorBrowserToolSettings_h_10_ENHANCED_CONSTRUCTORS \
+	FID_X_Plugins_EditorBrowserTool_Source_EditorWebBrowser_Plus_Private_EditorBrowserToolSettings_h_10_INCLASS_NO_PURE_DECLS \
+	FID_X_Plugins_EditorBrowserTool_Source_EditorWebBrowser_Plus_Private_EditorBrowserToolSettings_h_10_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -57,6 +57,6 @@ class UEditorBrowserToolSettings;
 // ********** End Class UEditorBrowserToolSettings *************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_X_Plugins_EditorWebBrowser_Plus_Source_EditorWebBrowser_Plus_Private_EditorBrowserToolSettings_h
+#define CURRENT_FILE_ID FID_X_Plugins_EditorBrowserTool_Source_EditorWebBrowser_Plus_Private_EditorBrowserToolSettings_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

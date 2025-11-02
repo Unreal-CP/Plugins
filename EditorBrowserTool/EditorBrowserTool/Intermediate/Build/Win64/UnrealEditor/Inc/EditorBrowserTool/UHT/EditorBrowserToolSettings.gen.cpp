@@ -171,14 +171,14 @@ UEditorBrowserToolSettings::~UEditorBrowserToolSettings() {}
 // ********** End Class UEditorBrowserToolSettings *************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_X_Plugins_EditorWebBrowser_Plus_Source_EditorWebBrowser_Plus_Private_EditorBrowserToolSettings_h__Script_EditorBrowserTool_Statics
+struct Z_CompiledInDeferFile_FID_X_Plugins_EditorBrowserTool_Source_EditorWebBrowser_Plus_Private_EditorBrowserToolSettings_h__Script_EditorBrowserTool_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UEditorBrowserToolSettings, UEditorBrowserToolSettings::StaticClass, TEXT("UEditorBrowserToolSettings"), &Z_Registration_Info_UClass_UEditorBrowserToolSettings, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UEditorBrowserToolSettings), 762162366U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_X_Plugins_EditorWebBrowser_Plus_Source_EditorWebBrowser_Plus_Private_EditorBrowserToolSettings_h__Script_EditorBrowserTool_3862514159(TEXT("/Script/EditorBrowserTool"),
-	Z_CompiledInDeferFile_FID_X_Plugins_EditorWebBrowser_Plus_Source_EditorWebBrowser_Plus_Private_EditorBrowserToolSettings_h__Script_EditorBrowserTool_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_X_Plugins_EditorWebBrowser_Plus_Source_EditorWebBrowser_Plus_Private_EditorBrowserToolSettings_h__Script_EditorBrowserTool_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_X_Plugins_EditorBrowserTool_Source_EditorWebBrowser_Plus_Private_EditorBrowserToolSettings_h__Script_EditorBrowserTool_3862514159(TEXT("/Script/EditorBrowserTool"),
+	Z_CompiledInDeferFile_FID_X_Plugins_EditorBrowserTool_Source_EditorWebBrowser_Plus_Private_EditorBrowserToolSettings_h__Script_EditorBrowserTool_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_X_Plugins_EditorBrowserTool_Source_EditorWebBrowser_Plus_Private_EditorBrowserToolSettings_h__Script_EditorBrowserTool_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************
